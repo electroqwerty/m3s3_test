@@ -3,7 +3,7 @@
 
 ## Notebooks Overview
 
-1. **[Accepted Loans Dataset Cleaning](Accepted Loans Dataset Cleaning.ipynb)**: 
+1. **[Accepted Loans Dataset Cleaning](./'Accepted Loans Dataset Cleaning.ipynb')**: 
    This notebook covers the preparation and cleaning of the accepted loans dataset for dimensionality reduction.
    
 2. **[Combining of Datasets](Combining of datasets.ipynb)**: 
@@ -20,4 +20,4 @@
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
-
+k
